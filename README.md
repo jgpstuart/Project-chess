@@ -3,7 +3,7 @@ Welcome!  Chess is a centuries old two player strategic turn based board game wh
 
 *current version: 1.0 (final submission)*
 
-![alt text] (https://github.com/jgpstuart/Project-chess/blob/master/documents/screenshot.PNG)
+![alt text](https://github.com/jgpstuart/Project-chess/blob/master/documents/screenshot.PNG?raw=true)
 
 # How To Play Chess
 An introduction to the basic setup and rules of chess can be found [here](https://www.chess.com/learn-how-to-play-chess).
